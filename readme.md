@@ -29,7 +29,7 @@
 <!--     <summary> <samp>&#9776; Details</samp></summary> -->
     <p align="center">
         <br>
-        <img alt="geekilx Counter Status"src="https://komarev.com/ghpvc/?username=geekilx&color=ff69b4" />
+        <img alt="geekilx Counter Status"src="https://komarev.com/ghpvc/?username=geekilx&color=red" />
          <a href="https://github.com/geekilx?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 <!-- </details> -->
