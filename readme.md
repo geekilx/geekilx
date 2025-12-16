@@ -15,14 +15,14 @@
                 <br>
         </samp>
                <a href="https://wakatime.com/@da6c4413-2d9f-4364-9ddf-72b0abf69fc6"><img src="https://wakatime.com/badge/user/da6c4413-2d9f-4364-9ddf-72b0abf69fc6.svg" alt="wakatime" /></a>
-        <a href="https://github.com/geekilx?tab=repositories" target="_blank"><img alt="Python"
-        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
+        <!-- <a href="https://github.com/geekilx?tab=repositories" target="_blank"><img alt="Python" -->
+        <!-- src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"> -->
+        <!-- </a> -->
         <a href="https://github.com/geekilx?tab=repositories" target="_blank"><img alt="Golang"
         src="https://img.shields.io/badge/-Go-4DABD4?style=flat-square&logo=goland&logoColor=white">
-        <a href="https://github.com/geekilx?tab=repositories" target="_blank"><img alt="C"
-        src="https://img.shields.io/badge/-C-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
-        </a>
+        <!-- <a href="https://github.com/geekilx?tab=repositories" target="_blank"><img alt="C" -->
+        <!-- src="https://img.shields.io/badge/-C-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white"> -->
+        <!-- </a> -->
         </a>
 </p>
 <!-- <details align="center"> -->
