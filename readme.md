@@ -1,13 +1,11 @@
 <h3 align="center">
-    <p align="center">
-    ═══════════════
+    <!-- <p align="center">
         <br>
         <b>"静かな"</b>
                     <br>
-    ═══════════════
     </p>        </samp>
 </h3>
-<br>
+<br> -->
 <p align="center">
         <samp>
                 < For Freedom </s> >
@@ -33,4 +31,11 @@
          <!-- <a href="https://github.com/geekilx?tab=followers" target="_blank"><img alt="Followers" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a> -->
 
 <!-- </details> -->
+<div align="center">
 
+## GitHub Statistics
+    
+[![geekilx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekilx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekilx&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</div>
