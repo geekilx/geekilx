@@ -1,4 +1,4 @@
-<h3 align="center">
+<!-- <h3 align="center">
     <!-- <p align="center">
         <br>
         <b>"静かな"</b>
@@ -37,7 +37,7 @@
     
 [![geekilx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekilx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@geekilx)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@geekilx)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekilx&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
